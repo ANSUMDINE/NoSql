@@ -1,0 +1,31 @@
+# Configuration générale de Logstash
+
+# Adresse et port HTTP pour l'interface de monitoring
+http.host: "0.0.0.0"
+http.port: 9600
+http.enabled: true
+
+# Paramètres pour les plugins Logstash
+path.plugins: "/usr/share/logstash/plugins"
+
+# Nombre de workers utilisés pour traiter les événements
+pipeline.workers: 4
+
+# Taille des batches traités par le pipeline
+pipeline.batch.size: 125
+
+# Chemin vers les fichiers de configuration des pipelines
+path.config: "/usr/share/logstash/pipeline"
+
+# Répertoire des données de Logstash
+path.data: "/usr/share/logstash/data"
+
+# Répertoire des logs de Logstash
+path.logs: "/usr/share/logstash/logs"
+
+# Niveau de journalisation des logs (peut être debug, info, warn, error)
+log.level: info
+
+# Configuration X-Pack Monitoring (si activé)
+xpack.monitoring.enabled: true
+xpack.monitoring.elasticsearch.hosts: [ "http://elasticsearch:9200" ]
