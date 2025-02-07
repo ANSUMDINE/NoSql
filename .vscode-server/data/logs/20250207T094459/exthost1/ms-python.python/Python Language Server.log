@@ -1,0 +1,31 @@
+2025-02-07 11:27:32.847 [info] (Client) Pylance async client (2025.2.1) started with python extension (2024.22.2)
+2025-02-07 11:27:34.477 [info] [Info  - 11:27:34 AM] (43897) Server root directory: file:///home/said/.vscode-server/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-07 11:27:34.479 [info] [Info  - 11:27:34 AM] (43897) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-07 11:27:34.480 [info] [Info  - 11:27:34 AM] (43897) Starting service instance "said"
+2025-02-07 11:27:34.725 [info] [Info  - 11:27:34 AM] (43897) Setting environmentName for service "said": "3.12.3 (myenv venv)"
+2025-02-07 11:27:34.727 [info] [Info  - 11:27:34 AM] (43897) Setting pythonPath for service "said": "/home/said/myenv/bin/python"
+2025-02-07 11:27:34.727 [info] [Info  - 11:27:34 AM] (43897) No include entries specified; assuming /home/said
+2025-02-07 11:27:34.729 [info] [Info  - 11:27:34 AM] (43897) Auto-excluding **/node_modules
+2025-02-07 11:27:34.730 [info] [Info  - 11:27:34 AM] (43897) Auto-excluding **/__pycache__
+2025-02-07 11:27:34.731 [info] [Info  - 11:27:34 AM] (43897) Auto-excluding **/.*
+2025-02-07 11:27:34.820 [info] [Info  - 11:27:34 AM] (43897) Assuming Python version 3.12.3.final.0
+2025-02-07 11:27:35.135 [info] [Info  - 11:27:35 AM] (43897) Auto-excluding /home/said/myenv
+2025-02-07 11:27:35.150 [info] [Info  - 11:27:35 AM] (43897) Found 2 source files
+2025-02-07 11:27:38.230 [info] [Info  - 11:27:38 AM] (43897) Background analysis(1) root directory: file:///home/said/.vscode-server/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-07 11:27:38.230 [info] [Info  - 11:27:38 AM] (43897) Background analysis(1) started
+2025-02-07 11:27:38.765 [info] [Info  - 11:27:38 AM] (43897) Indexer background runner(2) root directory: file:///home/said/.vscode-server/extensions/ms-python.vscode-pylance-2025.2.1/dist (index)
+2025-02-07 11:27:38.765 [info] [Info  - 11:27:38 AM] (43897) Indexing(2) started
+2025-02-07 11:27:39.970 [info] [Info  - 11:27:39 AM] (43897) scanned(2) 16 files over 1 exec env
+2025-02-07 11:27:40.689 [info] [Info  - 11:27:40 AM] (43897) indexed(2) 16 files over 1 exec env
+2025-02-07 11:27:40.752 [info] [Info  - 11:27:40 AM] (43897) Indexing finished(2).
+2025-02-07 11:42:52.586 [info] [Info  - 11:42:52 AM] (43897) Auto-excluding /home/said/myenv
+2025-02-07 11:42:52.589 [info] [Info  - 11:42:52 AM] (43897) Found 2 source files
+2025-02-07 14:41:30.166 [info] [Info  - 2:41:30 PM] (43897) [BG(1)] Long operation: SemanticTokens full at file:///home/said/project_nosql/test_es.py (2728ms)
+2025-02-07 14:46:52.883 [info] [Info  - 2:46:52 PM] (43897) Auto-excluding /home/said/myenv
+2025-02-07 14:46:52.905 [info] [Info  - 2:46:52 PM] (43897) Found 5 source files
+2025-02-07 14:46:55.498 [info] [Info  - 2:46:55 PM] (43897) [BG(1)] Long operation: checking: file:///home/said/project_nosql/test_es.py (2285ms)
+2025-02-07 14:46:55.498 [info] [Info  - 2:46:55 PM] (43897) [BG(1)] Long operation: analyzing: file:///home/said/project_nosql/test_es.py (2289ms)
+2025-02-07 14:47:25.753 [info] [Info  - 2:47:25 PM] (43897) Auto-excluding /home/said/myenv
+2025-02-07 14:47:25.763 [info] [Info  - 2:47:25 PM] (43897) Found 2 source files
+2025-02-07 14:49:59.356 [info] [Info  - 2:49:59 PM] (43897) Auto-excluding /home/said/myenv
+2025-02-07 14:49:59.364 [info] [Info  - 2:49:59 PM] (43897) Found 5 source files

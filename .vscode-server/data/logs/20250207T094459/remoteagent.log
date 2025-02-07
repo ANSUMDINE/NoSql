@@ -1,0 +1,26 @@
+2025-02-07 09:44:59.310 [info] 
+
+
+
+
+2025-02-07 09:44:59.360 [info] Extension host agent started.
+2025-02-07 09:44:59.887 [info] [127.0.0.1][15298aba][ManagementConnection] New connection established.
+2025-02-07 09:45:01.045 [info] [127.0.0.1][5ce97b11][ExtensionHostConnection] New connection established.
+2025-02-07 09:45:01.082 [info] [127.0.0.1][5ce97b11][ExtensionHostConnection] <867> Launched Extension Host Process.
+2025-02-07 09:45:08.344 [info] Getting Manifest... ms-python.debugpy
+2025-02-07 09:45:08.355 [info] Getting Manifest... ms-python.python
+2025-02-07 09:45:08.438 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/said/.vscode-server/extensions/extensions.json","external":"file:///home/said/.vscode-server/extensions/extensions.json","path":"/home/said/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-02-07 09:45:08.564 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/said/.vscode-server/extensions/extensions.json","external":"file:///home/said/.vscode-server/extensions/extensions.json","path":"/home/said/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-02-07 09:45:10.761 [info] Getting Manifest... ms-python.python
+2025-02-07 09:45:22.684 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 9628ms.
+2025-02-07 09:45:22.716 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 10552ms.
+2025-02-07 09:45:31.662 [info] Extracted extension to file:///home/said/.vscode-server/extensions/ms-python.debugpy-2025.0.0-linux-x64: ms-python.debugpy
+2025-02-07 09:45:32.009 [info] Renamed to /home/said/.vscode-server/extensions/ms-python.debugpy-2025.0.0-linux-x64
+2025-02-07 09:45:32.135 [info] Marked extension as uninstalled ms-python.debugpy-2024.14.0-linux-x64
+2025-02-07 09:45:32.191 [info] Extension installed successfully: ms-python.debugpy file:///home/said/.vscode-server/extensions/extensions.json
+2025-02-07 09:45:42.776 [info] Extracted extension to file:///home/said/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64: ms-python.python
+2025-02-07 09:45:44.060 [info] Renamed to /home/said/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64
+2025-02-07 09:45:44.132 [info] Marked extension as uninstalled ms-python.python-2024.22.2-linux-x64
+2025-02-07 09:45:44.149 [info] Extension installed successfully: ms-python.python file:///home/said/.vscode-server/extensions/extensions.json
+2025-02-07 13:29:29.011 [info] [127.0.0.1][5ce97b11][ExtensionHostConnection] The client has reconnected.
+2025-02-07 13:29:29.301 [info] [127.0.0.1][15298aba][ManagementConnection] The client has reconnected.
