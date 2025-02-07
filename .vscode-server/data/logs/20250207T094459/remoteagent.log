@@ -24,3 +24,4 @@
 2025-02-07 09:45:44.149 [info] Extension installed successfully: ms-python.python file:///home/said/.vscode-server/extensions/extensions.json
 2025-02-07 13:29:29.011 [info] [127.0.0.1][5ce97b11][ExtensionHostConnection] The client has reconnected.
 2025-02-07 13:29:29.301 [info] [127.0.0.1][15298aba][ManagementConnection] The client has reconnected.
+2025-02-07 15:09:34.223 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
